@@ -89,7 +89,7 @@ form {
   grid-template-columns: 3fr 1fr;
   gap: 10px;
 }
-form button {
+form button, .btn {
   background: #ffd859;
   border: 0;
   padding: 10px;
@@ -97,6 +97,7 @@ form button {
   border-radius: 6px;
   cursor: pointer;
   font-size: 1em;
+  display: block;
 }
 form input {
   border: 0;

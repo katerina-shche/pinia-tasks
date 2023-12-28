@@ -27,3 +27,7 @@ npm run dev
 ```sh
 npm run build
 ```
+
+npm install -g json-server
+
+json-server -w ./data/db.json
