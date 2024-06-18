@@ -2,17 +2,12 @@
   "tasks": [
     {
       "title": "take a shower",
-      "isFav": false,
+      "isFav": true,
       "id": 3522
     },
     {
-      "title": "code ",
-      "isFav": true,
-      "id": 3989
-    },
-    {
       "title": "code code ",
-      "isFav": false,
+      "isFav": true,
       "id": 305
     },
     {
